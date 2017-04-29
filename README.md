@@ -15,3 +15,5 @@ Open Terminal by right click from the DiskImage.
 and run VBOXLinuxAdditions.run
 
 `$ ./VBOXLinuxAdditions.run`
+
+After that. Restart the Machine. You will feel difference.
